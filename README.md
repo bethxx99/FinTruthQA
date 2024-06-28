@@ -15,7 +15,7 @@ Accurate and transparent financial information disclosure is crucial in the fiel
 ## Dataset
 We collected Q&A entries from the interactive platforms for communication between investors and listed companies established by the Shanghai Stock Exchange(SSE) and the Shenzhen Stock Exchange(SZSE). The data from the SSE covers the timeframe from January 4, 2016, to December 31, 2021, while the data from the SZSE spans from September 1, 2021, to May 31, 2022. Each Q&A entry was annotated based on four key information disclosure quality evaluation criteria: _question identification_, _question relevance_, _answer relevance_, and _answer readability_.
 
-![avatar](figs/annotation_sample.png)
+![avatar](figs/annotation_sample.pdf)
 
 ### Data Statistics
 The figure below shows the distribution of questions and answers in FinTruthQA(in characters).
