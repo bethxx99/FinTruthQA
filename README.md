@@ -4,7 +4,7 @@ This repository includes the dataset and benchmark of the paper:
 
 **FinTruthQA: A Benchmark Dataset for Evaluating the Quality of Financial Information Disclosure**
 
-**Authors**: Ziyue Xu, Peilin Zhou, Xinyu Shi, Jiageng Wu, Yikang Jiang, Bin Ke, Jie Yang
+<!-- **Authors**: Ziyue Xu, Peilin Zhou, Xinyu Shi, Jiageng Wu, Yikang Jiang, Bin Ke, Jie Yang -->
 
 
 ## Abstract
@@ -66,7 +66,7 @@ We reported the results, namely mean ± std, based on experiments on 3 different
 
 ![avatar](figs/task_4_performance.png)
 
-## Cite
+<!-- ## Cite
 
 If you use FinTruthQA in your paper, please cite [our paper](https://arxiv.org/abs/2406.12009):
 
@@ -83,4 +83,4 @@ If you use FinTruthQA in your paper, please cite [our paper](https://arxiv.org/a
 ## Contact
 
 If you have any questions about our dataset or benchmark results, please feel free to contact us!
-(Ziyue Xu, zyxu1224@gmail.com; Jie Yang, jieynlp@gmail.com)
+(Ziyue Xu, zyxu1224@gmail.com; Jie Yang, jieynlp@gmail.com) -->
