@@ -20,7 +20,7 @@ We collected Q&A entries from the interactive platforms for communication betwee
 ### Data Statistics
 The figure below shows the distribution of questions and answers in FinTruthQA(in characters).
 
-![avatar](figs/data_len_distrib.png)
+![avatar](figs/data_len_distrib.jpg)
 
 ### Data Access
 
